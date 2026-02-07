@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "别怕.md",
+                "file": "新的测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "别怕"
+              "title": "新的测试"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "别怕.md",
+                "file": "新的测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "别怕 的反向链接列表"
+              "title": "新的测试 的反向链接列表"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "别怕.md",
+                "file": "新的测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "别怕 的出链列表"
+              "title": "新的测试 的出链列表"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "别怕.md",
+                "file": "新的测试.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "别怕 的大纲"
+              "title": "新的测试 的大纲"
             }
           }
         ]
@@ -201,8 +201,9 @@
   },
   "active": "729d048ef19840fb",
   "lastOpenFiles": [
-    "新的测试.md",
     "别怕.md",
+    "我是你.md",
+    "新的测试.md",
     "所得到的多多多多多多",
     "新建文本文档.txt",
     "~快捷方式.tmp",
